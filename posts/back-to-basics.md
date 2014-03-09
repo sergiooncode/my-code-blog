@@ -10,7 +10,7 @@ The "weapons" at hand, my new shiny Sinclair ZX Spectrum +2 128K, an old TV set 
 
 I followed one of the exercises in the manual. The code was a combination of two statements, CIRCLE and DRAW.
 
-[![first_line_45.png](https://d23f6h5jpj26xu.cloudfront.net/xzq4rdb9e7n5zq_small.png)](http://img.svbtle.com/xzq4rdb9e7n5zq.png)
+[![first_line_45.png](https://github.com/sperez4mba/my-code-blog/blob/master/img/first_line.png)
 
 Basically it drew a circle and an straight line where the CIRCLE statement left the plot position.
 
