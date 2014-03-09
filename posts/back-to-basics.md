@@ -1,3 +1,8 @@
+---
+Title: "Back to BASICs"
+Date: 2014-03-08
+---
+
 I few days ago something crossed my mind. It was the very first line of code I ever wrote. The language, BASIC, the year, 1991. At that time I didn't have the remotest idea what I was doing or what 
 programming was, but it was new and exciting.
 
